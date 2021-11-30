@@ -7,8 +7,32 @@ function Clients() {
            <div className="col-4">
            <div className="prices">
            <div className="price_img">
-           <h1 className="clients_h1"> 120</h1>
-   <p className="clients_p">Awesome Employees </p>
+               <img className="prices_img" src="img/1.png"/>
+           <h1 className="price_h1"> Pizza Margaritta</h1>
+   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
+   <p className="price_p">$50.00 </p>
+  
+   </div>
+   </div>
+   </div>
+   <div className="col-4">
+   <div className="prices">
+           <div className="price_img">
+               <img className="prices_img" src="img/e.jpg"/>
+           <h1 className="price_h1"> Pizza Margaritta</h1>
+   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
+   <p className="price_p">$50.00 </p>
+  
+   </div>
+   </div>
+   </div>
+   <div className="col-4">
+   <div className="prices">
+           <div className="price_img">
+               <img className="prices_img" src="img/f.jpg"/>
+           <h1 className="price_h1"> Pizza Margaritta</h1>
+   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
+   <p className="price_p">$50.00 </p>
   
    </div>
    </div>
@@ -16,8 +40,10 @@ function Clients() {
    <div className="col-4">
            <div className="prices">
            <div className="price_img">
-           <h1 className="clients_h1"> 58</h1>
-   <p className="clients_p">Pizza Types </p>
+               <img className="prices_img" src="img/g.jpg"/>
+           <h1 className="price_h1"> Pizza Margaritta</h1>
+   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
+   <p className="price_p">$50.00 </p>
   
    </div>
    </div>
@@ -25,8 +51,10 @@ function Clients() {
    <div className="col-4">
            <div className="prices">
            <div className="price_img">
-           <h1 className="clients_h1"> 1464</h1>
-   <p className="clients_p">Satisfied Clients </p>
+               <img className="prices_img" src="img/h.jpg"/>
+           <h1 className="price_h1"> Pizza Margaritta</h1>
+   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
+   <p className="price_p">$50.00 </p>
   
    </div>
    </div>
@@ -34,7 +62,7 @@ function Clients() {
    <div className="col-4">
            <div className="prices">
            <div className="price_img">
-               <img src="img/1.png"/>
+               <img className="prices_img" src="img/i.jpg"/>
            <h1 className="price_h1"> Pizza Margaritta</h1>
    <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
    <p className="price_p">$50.00 </p>
