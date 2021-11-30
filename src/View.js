@@ -5,8 +5,8 @@ function View() {
         <div className="view_container">
        <div className="row">
            <div className="col-6">
-           <div className="ab_image">
-           <img src="img/c.jpg"/>
+           <div className="view_imageset">
+           <img className="view_image"  src="img/e.jpg"/>
        </div>
   
    </div>
