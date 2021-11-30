@@ -5,6 +5,7 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import Header from './Header';
 import About from './About';
 import Shop from './Shop';
+import View from './View';
 
 import SignUp from './SignUp';
 import logo from './logo.svg';
@@ -17,6 +18,7 @@ function App() {
       <Header/>
       <About/>
       <Shop/>
+      <View/>
       
      
       </BrowserRouter>
