@@ -3,6 +3,7 @@ import Navs from './Navs';
 function Header() {
     return (
       <div >
+        <Navs/>
       <img class ="head-img" src="img/b.JPG"/>
  <div className="head-content">
    <Navs/>
