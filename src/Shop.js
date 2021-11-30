@@ -8,7 +8,7 @@ function Shop() {
  <div className="shop">
   
    <div className="shop_container">
-   <h3 className="shop_h3">Free Delivery With  <br/> PIZZA OF THE DAY  <br/>ONLY 9.99 USD</h3>
+   <h3 className="shop_h3">Free Delivery With <br/>PIZZA OF THE DAY  <br/>ONLY 9.99 USD</h3>
   
   
    <br/>
