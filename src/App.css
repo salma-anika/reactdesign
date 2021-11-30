@@ -96,3 +96,25 @@ margin:0 auto;
 .col-6{
   width:50%;
 }
+.about_h3{
+  color:rgb(37, 37, 37,0.7);
+  font-size: 30px;
+  margin-bottom:12px;
+  font-weight:700;
+}
+.about_h1{
+  color:#252525;
+  font-size: 40px;
+  margin-bottom:15px;
+  line-height:40px;
+  font-weight:700;
+}
+.about p{
+  font-size:18px;
+  color:#8b8b8b;
+  font-weight:300;
+}
+.ab_image{
+  width:100%;
+  overflow:hidden;
+}
