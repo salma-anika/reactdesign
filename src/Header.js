@@ -1,10 +1,11 @@
-import {Link} from 'react-router-dom';
+import Navs from './Navs';
 
 function Header() {
     return (
       <div >
       <img class ="head-img" src="img/b.JPG"/>
  <div className="head-content">
+   <Navs/>
    <div className="container">
    <h3>Pizza Delivery</h3>
    <h1>MAESTRO <br/> PIZZINNI</h1>
