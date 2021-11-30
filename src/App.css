@@ -240,5 +240,25 @@ text-align:center;
     width: 100%;
     margin:auto;
   }
-  
+  div.container{
+    width:100%;
+    padding:0 30px;
+  }
+  h3{
+    font-size:25px !important;
+    font-family: "Montserrat",sans-serif;
+  }
+  h1{
+    font-size:50px;
+    line-height:80px;
+    font-weight: 900;
+    margin-top: 20px;
+    font-family: "Montserrat",sans-serif;
+  }
+  p{
+    font-size:20px;
+    font-weight: 400;
+    margin-top: 20px;
+    font-family: "Montserrat",sans-serif;
+  }
 }
