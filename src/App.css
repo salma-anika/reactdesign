@@ -89,6 +89,7 @@ p{
 .row{
   display:flex;
   width:100%;
+  padding:70px;
 }
 .col-6{
   width:50%;
@@ -118,7 +119,7 @@ p{
 
 
 .shop{
-  height:450px;
+  height:350px;
   width:100%;
   background-attachment:fixed;
 }
