@@ -6,6 +6,7 @@ import Header from './Header';
 import About from './About';
 import Shop from './Shop';
 import View from './View';
+import Clients from './Clients';
 
 import SignUp from './SignUp';
 import logo from './logo.svg';
@@ -19,6 +20,7 @@ function App() {
       <About/>
       <Shop/>
       <View/>
+      <Clients/>
       
      
       </BrowserRouter>
