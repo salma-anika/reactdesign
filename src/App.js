@@ -7,6 +7,7 @@ import About from './About';
 import Shop from './Shop';
 import View from './View';
 import Clients from './Clients';
+import Price from './Price';
 
 import SignUp from './SignUp';
 import logo from './logo.svg';
@@ -21,6 +22,7 @@ function App() {
       <Shop/>
       <View/>
       <Clients/>
+      <Price/>
       
      
       </BrowserRouter>
