@@ -7,10 +7,16 @@ function Footer() {
            <div className="col-4">
            <div className="prices">
            <div className="price_img">
-               <img className="prices_img" src="img/1.png"/>
-           <h1 className="price_h1"> Pizza Margaritta</h1>
-   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
-   <p className="price_p">$50.00 </p>
+          <ul>
+              <li><a href="">HOME</a></li>
+              <li><a href="">MENU</a></li>
+              <li><a href="">SHOP</a></li>
+              <li><a href="">NEWS</a></li>
+              <li><a href="">CONTACT</a></li>
+              
+          </ul>
+
+          
   
    </div>
    </div>
