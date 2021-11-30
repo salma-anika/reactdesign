@@ -325,5 +325,32 @@ text-align:center;
   width:100%;
   
   }
+  .view_image{
+    height:auto;
+    width:100%;
+
+  
+  }
+  .view_imageset{
+    height:auto;
+    width:100%;
+  }
+  .view_h3{
+    color:rgb(37, 37, 37,0.7);
+    font-size: 20px;
+   
+    font-weight:700;
+  }
+  .view_h1{
+    color:#252525;
+    font-size: 25px;
+    line-height:30px;
+    font-weight:700;
+  }
+  .view p{
+    font-size:12px;
+    color:#8b8b8b;
+    font-weight:300;
+  }
   
 }
