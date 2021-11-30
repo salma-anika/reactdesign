@@ -7,13 +7,14 @@ background-size: cover;
 div.head-content{
 display:flex;
 align-items: center;
+color:rgb(255, 255, 255);
 
 }
 div.container{
 width:1200px;
 max-width:1200px;
 margin:0 auto;
-color:rgb(255, 255, 255);
+
 margin-top: -700px;
 }
 h3{
@@ -78,4 +79,20 @@ p{
 }
 .btn.btn-danger{
   background-color:rgba(255,69, 79);
+}
+
+.ab_container{
+  width:1200px;
+max-width:1200px;
+margin:0 auto;
+}
+.about{
+  padding:80px 0;
+}
+.row{
+  display:flex;
+  width:100%;
+}
+.col-6{
+  width:50%;
 }
