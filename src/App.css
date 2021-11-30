@@ -240,6 +240,13 @@ text-align:center;
     width: 100%;
     margin:auto;
   }
+  .nav-ul{
+    width: 60%;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 100px;
+  }
   div.container{
     width:100%;
     padding:0 30px;
@@ -261,4 +268,34 @@ text-align:center;
     margin-top: 20px;
     font-family: "Montserrat",sans-serif;
   }
+  .col-6,
+  .col-3,
+  .col-4{
+    width:100%;
+    margin-bottom:10px;
+  }
+  .about_h3{
+    color:rgb(37, 37, 37,0.7);
+    font-size: 20px;
+    margin-bottom:12px;
+    font-weight:700;
+  }
+  .about_h1{
+    color:#252525;
+    font-size: 30px;
+    margin-bottom:15px;
+    line-height:40px;
+    font-weight:700;
+  }
+  .about p{
+    font-size:14px;
+    color:#8b8b8b;
+    font-weight:300;
+  }
+  .ab_image{
+    width:100%;
+    overflow:hidden;
+  }
+  
+  
 }
