@@ -328,7 +328,7 @@ text-align:center;
   .view_image{
     height:auto;
     width:100%;
-
+margin-top:50px;
   
   }
   .view_imageset{
@@ -351,6 +351,27 @@ text-align:center;
     font-size:12px;
     color:#8b8b8b;
     font-weight:300;
+  }
+  .clients{
+    height:auto;
+  background-repeat: no-repeat;
+  width:100%;
+  background-size: cover;
+  color:#fff;
+  background-attachment:fixed;
+  background: black;
+  opacity:50%;
+  text-align:center;
+  }
+  .clients_h1{
+    font-size: 35px;
+    font-weight:600;
+  }
+  .clients_p{
+    font-size:14px;
+  
+    font-weight:400;
+    margin-top: 10px;
   }
   
 }
