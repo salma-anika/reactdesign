@@ -34,7 +34,7 @@ function Footer() {
    </div>
    <div className="col-4">
            <h1 className="Foot_h1"> information</h1>
-   <p className="footer_p">Satisfied Clients </p>
+   <p className="footer_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
   
    </div>
  

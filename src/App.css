@@ -232,7 +232,7 @@ text-align:center;
 }
 .Foot{
   background-color:#252525;
-  opacity: 40%;
+
   height:auto;
   text-align: justify;
 }
@@ -269,9 +269,14 @@ text-align:center;
   color:#fff;
 }
 .footer_social{
-  margin-left: 45px;
+  margin-left: 85px;
 }
-
+.footer_p{
+  margin-right: 20px;
+  color:#fff;
+  font-size: 18px;
+  margin-left: 90px;
+}
 @media(max-width:760px){
 
   .navbar-text{
@@ -415,5 +420,6 @@ margin-top:50px;
     font-weight:400;
     margin-top: 10px;
   }
+  
   
 }
