@@ -23,10 +23,10 @@ function Footer() {
            <h1 className="Foot_h1"> FOLLOW US</h1>
    
            <ul className="footer_social">
-           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
-           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
-           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
-           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
+           <li className="footer_icon"><a href="" className="footer_icon_a"><i class="bi bi-youtube"></i></a></li>
+           <li className="footer_icon"><a href="" className="footer_icon_a"><i class="bi bi-facebook"></i></a></li>
+           <li className="footer_icon"><a href="" className="footer_icon_a"><i class="bi bi-instagram"></i></a></li>
+           <li className="footer_icon"><a href="" className="footer_icon_a"><i class="bi bi-google"></i></a></li>
            
            
          </ul>
@@ -34,7 +34,7 @@ function Footer() {
    </div>
    <div className="col-4">
            <h1 className="Foot_h1"> information</h1>
-   <p className="clients_p">Satisfied Clients </p>
+   <p className="footer_p">Satisfied Clients </p>
   
    </div>
  
