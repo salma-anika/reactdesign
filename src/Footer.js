@@ -1,50 +1,43 @@
 function Footer() {
     return (
-      <div className="price" >
+      <div className="Foot" >
         
-        <div className="Price_container">
+        <div className="Foot_container">
        <div className="row">
            <div className="col-4">
-           <div className="prices">
-           <div className="price_img">
-          <ul>
-              <li><a href="">HOME</a></li>
-              <li><a href="">MENU</a></li>
-              <li><a href="">SHOP</a></li>
-              <li><a href="">NEWS</a></li>
-              <li><a href="">CONTACT</a></li>
-              
-          </ul>
+           <h1 className="Foot_h1"> Pizza Hut</h1>
 
-          
+   <ul className="footer_menu">
+           <li className="footer_li"><a href="" className="footer_a">Home</a></li>
+           <li className="footer_li"><a href="" className="footer_a">Menu</a></li>
+           <li className="footer_li"><a href="" className="footer_a">Shop</a></li>
+           <li className="footer_li"><a href="" className="footer_a">News</a></li>
+           <li className="footer_li"><a href="" className="footer_a">Contact</a></li>
+           
+         </ul>
+
+
   
-   </div>
-   </div>
    </div>
    <div className="col-4">
-   <div className="prices">
-           <div className="price_img">
-               <img className="prices_img" src="img/e.jpg"/>
-           <h1 className="price_h1"> Pizza Margaritta</h1>
-   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
-   <p className="price_p">$50.00 </p>
-  
-   </div>
-   </div>
-   </div>
-   <div className="col-4">
-   <div className="prices">
-           <div className="price_img">
-               <img className="prices_img" src="img/f.jpg"/>
-           <h1 className="price_h1"> Pizza Margaritta</h1>
-   <p className="price_p">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit, <br/>sed do eiusmod tempor incididunt ut <br/>labore et dolore magna aliqua.<br/> </p>
-   <p className="price_p">$50.00 </p>
-  
-   </div>
-   </div>
-   </div>
-  
+           <h1 className="Foot_h1"> FOLLOW US</h1>
    
+           <ul className="footer_social">
+           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
+           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
+           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
+           <li className="footer_icon"><i class="bi bi-youtube"></i></li>
+           
+           
+         </ul>
+  
+   </div>
+   <div className="col-4">
+           <h1 className="Foot_h1"> information</h1>
+   <p className="clients_p">Satisfied Clients </p>
+  
+   </div>
+ 
    </div>
        </div>
       </div>
